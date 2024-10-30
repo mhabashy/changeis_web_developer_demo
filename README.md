@@ -13,7 +13,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 1. initialize project by installing packages
    
    ```bash
-    npm intall
+    npm install
    ```
 2. run project
 
