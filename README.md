@@ -30,5 +30,5 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 2) For styles I just used tailwind. 
 
 
-### Thank you so much for your time and happy to delete repository once remove is completed - Michael Habashy
+### Thank you so much for your time and happy to delete repository once review is completed - Michael Habashy
 
